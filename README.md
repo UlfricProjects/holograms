@@ -1,2 +1,2 @@
 # holograms
-Standard Hologram API for Spigot plugins to implement
+Standard Hologram API for Bukkit plugins to implement
