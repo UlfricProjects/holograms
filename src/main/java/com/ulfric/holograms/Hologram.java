@@ -11,9 +11,9 @@ public interface Hologram {
 
 	void setLines(List<String> lines);
 
-	List<Location> getLocations();
+	Location getLocation();
 
-	void setLocations(List<Location> locations);
+	void moveTo(Location location);
 
 	boolean isVisibleTo(Player player);
 
