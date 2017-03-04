@@ -21,4 +21,6 @@ public interface Hologram {
 
 	void hideFrom(Player player);
 
+	void delete();
+
 }
